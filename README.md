@@ -1,2 +1,8 @@
 # NJE-WEB
-asd
+Web tárgy
+
+## Követelmények
+- HTML
+- CSS
+- JavaScript
+
